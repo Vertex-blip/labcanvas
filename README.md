@@ -1,5 +1,7 @@
 # LabCanvas
 
+<img src="./logo.svg" width="48" height="48" alt="LabCanvas logo">
+
 An interactive physics lab with three browser-based simulations: pendulum, projectile motion, and a spring oscillator. The hero instrument is a live view of the selected model. Change variables, pause or restart the system, read live measurements, and download numeric data as CSV.
 
 ## Run
