@@ -24,7 +24,7 @@ The models are intentionally simplified. The displayed **ideal period** formulas
 - `style.css` — responsive design
 - `app.js` — physics models, canvas rendering, controls, and CSV export
 
-No runtime dependencies. Google Fonts are optional and have system fallbacks. All computations happen in the browser.
+No runtime dependencies or third-party requests. Typefaces are bundled under `fonts/` with their OFL licenses. All computations happen in the browser.
 
 ## License
 
